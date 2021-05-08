@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Dennis.
 
 <!--
 **Dennisonung/Dennisonung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, my name is Dennis and I run Dennisonung's Development Center (DDC) & Dennisonung Foundation. All my services are hosted under DDC, This can include Websites, Discord Bots, and VPS.
+
