@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Dennis and I run Dennisonung's Development Center (DDC) & Dennisonung Foundation. All my services are hosted under DDC, This can include Websites, Discord Bots, and VPS.
+Hi, my name is Dennis and I run Dennisonung's Development Center (DDC) & Dennisonung Foundation. I also work for Scuffed Development. All my services are hosted under DDC, This can include Websites, Discord Bots, and VPS.
 
