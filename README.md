@@ -31,7 +31,7 @@ _Things I am still learning:_
 - Java
 
 _Media:_
-- Discord: DennisonungDev#0001
+- Discord: Dennisonung#0001
 - Website: https://ddc-dev.com/
 - Profile: https://ddc-dev.com/Dennisonung
 
